@@ -1,0 +1,95 @@
+
+.wrapper{
+    position: relative;
+    top: -50px;
+}
+.header h1{
+    font-size: 500%;
+    position: relative;
+    top: 40px;
+}
+.header{
+    background-image: url("https://images5.alphacoders.com/473/thumb-1920-473154.jpg");
+    background-position: center;
+    background-size: 1900px 900px;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 600px;
+    color: #DA3B19;
+}
+#sign{
+    position: relative;
+    left: 110px;
+    top: 50px;
+    font-size: 130%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+q{
+    position: relative;
+    top: 50px;
+    font-size: 140%;
+}
+.ref{
+    position: relative;
+    top: 190px;
+    
+}
+
+.ref a:hover{
+    background-color: lightgreen;
+}
+.content{
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+.About h2{
+    position: relative;
+    left: -60px;
+    font-size: 250%;
+}
+.ref a{
+    padding: 25px;
+    font-size: 170%;
+    text-decoration: none;
+    color: rgb(224, 0, 0);
+}
+.Picture h2{
+    position: relative;
+    left: -60px;
+    font-size: 250%;
+}
+
+.Skill h2{
+    position: relative;
+    left: -60px;
+    font-size: 250%;
+}
+#pho{
+    position: relative;
+    left: -300px;
+    height: 100%;
+    width: 260%;
+}
+#hanoi{
+    position: relative;
+    left: -90px;
+    height: 100%;
+    width: 200%;
+}
+#portland{
+    position: relative;
+    left: 100px;
+    height: 100%;
+    width: 100%;
+}
+
+.row{
+    display:flex;
+}
+.Contact h2{
+    position: relative;
+    left: -60px;
+    font-size: 250%;
+}
